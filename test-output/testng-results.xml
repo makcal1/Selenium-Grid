@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-13T22:46:24 CET" name="Default suite" finished-at="2021-03-13T22:46:31 CET" duration-ms="6920">
+    <groups>
+    </groups>
+    <test started-at="2021-03-13T22:46:24 CET" name="Default test" finished-at="2021-03-13T22:46:31 CET" duration-ms="6920">
+      <class name="com.soucelabs.tests.DemoLoginPagetest">
+        <test-method signature="loginTest()[pri:0, instance:com.soucelabs.tests.DemoLoginPagetest@66e889df]" started-at="2021-03-13T22:46:24 CET" name="loginTest" finished-at="2021-03-13T22:46:30 CET" duration-ms="6224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.soucelabs.tests.DemoLoginPagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
